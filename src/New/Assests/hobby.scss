@@ -1,0 +1,67 @@
+.div_contact{
+  width: 100%;
+  height: 100vh;
+  background-image: url('./contact.jpg');
+  background-size: cover;
+  box-shadow: 0 0 30px 30px #A7A098;
+
+      .h1_contact{
+            font-family: 'Dancing Script', cursive;
+            font-size: 80px;
+            margin-left: 25px;
+            color: white;
+      }
+
+      .fac_contact{
+            width: 250px;
+            height: 136px;
+            border-radius: 5%;
+            background-image: url('./facebook.jpg');
+            background-size: cover;
+            margin-left: 20px;
+            margin-top: 50px;
+            cursor: pointer;
+            transition: 0.5s;
+      }
+
+      
+
+       .fac_contact:hover{
+            margin-left: 45px;
+            transition: 0.5s;
+      }
+
+      .inst_contact{
+            width: 250px;
+            height: 136px;
+            border-radius: 5%;
+            background-image: url('./instagram.jpg');
+            background-size: cover;
+            margin-left: 20px;
+            margin-top: 30px;
+            cursor: pointer;
+            transition: 0.5s;
+      }
+
+      .inst_contact:hover{
+            margin-left: 45px;
+            transition: 0.5s;
+      }
+
+      .mail_contact{
+            width: 250px;
+            height: 136px;
+            border-radius: 5%;
+            background-image: url('./mail.png');
+            background-size: cover;
+            margin-left: 20px;
+            margin-top: 30px;
+            cursor: pointer;
+            transition: 0.5s;
+      }
+
+      .mail_contact:hover{
+            margin-left: 45px;
+            transition: 0.5s;
+      }
+}

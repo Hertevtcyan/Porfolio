@@ -1,0 +1,21 @@
+.home{
+
+    background-image: url('./image_01.jpg');
+    height: 100vh;
+    box-shadow: 0 0 30px 30px #EACDCF;
+
+            .span_home{
+                font-family: 'Grenze Gotisch', cursive;
+                font-size: 110%;
+                text-shadow: 14px 14px 14px black;
+                margin-left: 30px;
+            }
+            
+            .h2_home{
+                font-family: 'Caveat', cursive;
+                font-size: 50px;
+                text-shadow: 15px 15px 15px black;
+                margin-left: 30px;
+            }
+
+}

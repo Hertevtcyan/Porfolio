@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.father_div{
+    display: flex;
+    width: 100%;
+
+    .mother{
+            width: 70%;
+            height: 100vh;
+            margin-left: 30%;
+        
+    }
+
+    
+   .mother_header{
+            width: 30%;
+            height: 100vh;
+            background-image: url("./New//Assests//image_0.jpg");
+            background-size: cover;
+            position: fixed;
+            
+
+            .nkar{
+                width: 250px;
+                height: 250px;
+                box-shadow: 0 0 25px 25px white;
+                margin: auto;
+                margin-top: 25px;
+                border-radius: 50%;
+                background-image: url('./New//Assests/alik.jpg');
+                background-size: cover;
+                
+
+            }
+            
+}
+
+
+}
+
+
+
